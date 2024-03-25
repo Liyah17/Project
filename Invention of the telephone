@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Invention of the Telephone</title>
+<style>
+  body {
+    font-family: fantasy;
+    text-align: center;
+  }
+  .milestone {
+    font-size: 40px;
+    color: red;
+    transition: color 0.5s;
+    cursor: pointer;
+  }
+  .milestone:hover {
+    color: skyblue;
+  }
+  #main {
+    margin-top: 50px;
+  }
+  #footer {
+    margin-top: 50px;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <div class="milestone">Invention of the telephone</div>
+  </header>
+  <main id="main">
+    <img src="https://i.ytimg.com/vi/BKQwih1uLdk/maxresdefault.jpg" alt="The first telephone Image" width="200">
+    <p>The telephone, one of the most transformative inventions in human history, was pioneered by Alexander Graham Bell. In 1876, Bell received the first successful patent for the telephone, revolutionizing communication by enabling voices to be transmitted over long distances through electrical signals. This invention profoundly altered society, facilitating instantaneous communication and shaping the modern world's interconnectedness..</p>
+  </main>
+  <footer id="footer">
+    <p>https://www.history.com/topics/inventions/alexander-graham-bell</p>
+  </footer>
+</body>
+</html>
+<table> 
+
+    <table>  
+
+
+
+        <tr>  
+
+ 
+
+            <th>Development of Technology</th>  
+
+ 
+
+            <th>Background Information</th>  
+
+ 
+
+            <th>Dates</th>  
+
+ 
+
+        </tr>  
+
+ 
+
+        <tr>  
+
+ 
+
+            <td> Invention of the Telephone</td>  
+
+ 
+
+            <td>The first telephone was made by Alexander Graham Bell. It had two parts: a transmitter and a receiver. </td>  
+
+ 
+
+            <td>1849</td>  
+
+ 
+
+        </tr>  
+
+ 
+
+        <tr>  
+
+ 
+
+            <td>The Creator</td>  
+
+ 
+
+            <td>Alexander Graham Bell is credited with being the inventor of the telephone since his patent </td>  
+
+ 
+
+            <td>1875</td>  
+
+ 
+
+        </tr>  
+
+ 
+
+        <tr>  
+
+ 
+
+            <td>Introduction of the Personal Computer</td>  
+
+ 
+
+            <td>A development that made the computer accessible to individuals.</td>  
+
+ 
+
+            <td>1975</td>  
+
+ 
+
+        </tr>  
+
+ 
+
+        <tr>  
+
+ 
+
+            <td>Development of the Internet</td>  
+
+ 
+
+            <td>Early humans who invented technology did so with the motivation to have the power to change their environments.</td>  
+
+ 
+
+            <td>1983</td>  
+
+ 
+
+        </tr>  
+
+ 
+
+        <tr>  
+
+ 
+
+            <td>Launch of the Smartphone</td>  
+
+ 
+
+            <td>Called the Simon Personal Communicator</td>  
+
+ 
+
+            <td>1994</td>  
+
+ 
+
+        </tr>  
+
+ 
+
+        <tr>  
+
+ 
+
+           
+
+ 
+
+    </table>  

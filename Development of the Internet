@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Development of the internet</title>
+<style>
+  body {
+    font-family: fantasy;
+    text-align: center;
+  }
+  .milestone {
+    font-size: 40px;
+    color: red;
+    transition: color 0.5s;
+    cursor: pointer;
+  }
+  .milestone:hover {
+    color: skyblue;
+  }
+  #main {
+    margin-top: 50px;
+  }
+  #footer {
+    margin-top: 50px;
+  }
+</style>
+</head>
+<body>
+  <header>
+    <div class="milestone">Development of the Internet</div>
+  </header>
+  <main id="main">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/c09b3949007311.560848d4cb453.jpg" alt="Development of the Internet Image" width="200">
+    <p>The development of the internet traces back to the late 1960s with the creation of ARPANET, a project initiated by the U.S. Department of Defense's Advanced Research Projects Agency (ARPA). This network aimed to facilitate communication between research institutions. Over subsequent decades, ARPANET evolved into the modern internet through the development of protocols like TCP/IP and the World Wide Web, fostering global connectivity and revolutionizing how people access information, communicate, and conduct business worldwide.</p>
+  </main>
+  <footer id="footer">
+    <p>https://www.scienceandmediamuseum.org.uk/objects-and-stories/short-history-internet</p>
+  </footer>
+</body>
+</html>
+<table> 
+
+    <table>  
+
+
+
+        <tr>  
+
+ 
+
+            <th>Development of Technology</th>  
+
+ 
+
+            <th>Background Information</th>  
+
+ 
+
+            <th>Dates</th>  
+
+ 
+
+        </tr>  
+
+ 
+
+        <tr>  
+
+ 
+
+            <td> Invention of the Telephone</td>  
+
+ 
+
+            <td>The first telephone was made by Alexander Graham Bell. It had two parts: a transmitter and a receiver. </td>  
+
+ 
+
+            <td>1849</td>  
+
+ 
+
+        </tr>  
+
+ 
+
+        <tr>  
+
+ 
+
+            <td>The Creator</td>  
+
+ 
+
+            <td>Alexander Graham Bell is credited with being the inventor of the telephone since his patent </td>  
+
+ 
+
+            <td>1875</td>  
+
+ 
+
+        </tr>  
+
+ 
+
+        <tr>  
+
+ 
+
+            <td>Introduction of the Personal Computer</td>  
+
+ 
+
+            <td>A development that made the computer accessible to individuals.</td>  
+
+ 
+
+            <td>1975</td>  
+
+ 
+
+        </tr>  
+
+ 
+
+        <tr>  
+
+ 
+
+            <td>Development of the Internet</td>  
+
+ 
+
+            <td>Early humans who invented technology did so with the motivation to have the power to change their environments.</td>  
+
+ 
+
+            <td>1983</td>  
+
+ 
+
+        </tr>  
+
+ 
+
+        <tr>  
+
+ 
+
+            <td>Launch of the Smartphone</td>  
+
+ 
+
+            <td>Called the Simon Personal Communicator</td>  
+
+ 
+
+            <td>1994</td>  
+
+ 
+
+        </tr>  
+
+ 
+
+        <tr>  
+
+ 
+
+           
+
+ 
+
+    </table>  
